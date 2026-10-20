@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
 Skeleton
 Goblin
@@ -32,3 +33,4 @@ Weapon<|--Item
 Regen<|--Effect
 Poison<|--Effect
 Key<|--Item
+```
